@@ -1,8 +1,8 @@
 .App {
-  font-family: "Nanum Gothic", sans-serif;
   text-align: center;
 }
 body {
+  font-family: "Nanum Gothic", sans-serif;
   background-color: rgb(144, 96, 206);
 }
 .btn:hover {
