@@ -1,0 +1,43 @@
+.App {
+  font-family: "Nanum Gothic", sans-serif;
+  text-align: center;
+}
+body {
+  background-color: rgb(144, 96, 206);
+}
+.btn:hover {
+  background-color: darkseagreen;
+}
+
+.listitems {
+  min-height: 40vh;
+  display: inline-block;
+  justify-content: center;
+  list-style: none;
+  margin-top: 2rem;
+}
+
+.destimage {
+  height: 35vh;
+  width: 35vh;
+  margin-left: 1rem;
+}
+
+.imgpadding {
+  margin-left: -6rem;
+}
+
+.place-names li {
+  margin: 1rem;
+}
+
+.btn {
+  margin-right: 1rem;
+  padding-right: 1rem;
+  font-size: 15px;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  margin-top: 0.5rem;
+  cursor: pointer;
+  border: 0.1rem white solid;
+}
